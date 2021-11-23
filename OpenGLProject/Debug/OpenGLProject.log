@@ -1,3 +1,3 @@
-﻿  소스.cpp
-c:\users\82103\desktop\openglproject\openglproject\소스.cpp(3): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+﻿  실습3-6.cpp
+c:\users\82103\desktop\openglproject\openglproject\실습3-6.cpp(111): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   OpenGLProject.vcxproj -> C:\Users\82103\Desktop\OpenGLProject\Debug\OpenGLProject.exe

@@ -15,34 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="reshapecpp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HW2_권성민%282-1%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="HW2_권성민%282-2%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Points.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Lines.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="LineStrip.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Triangles.cpp">
@@ -57,46 +33,10 @@
     <ClCompile Include="Polygons.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Quads.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="QuadStrip.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="LineLoop.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Sphere.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Cylinder.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Disk.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PartialDisk.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="정육면체.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="GLUT모델링.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습3-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습3-3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습3-4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습3-5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="실습3-1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="실습3-6.cpp">
@@ -108,10 +48,19 @@
     <ClCompile Include="기하파이프라인2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="로봇 손-팔 모델링.cpp">
+    <ClCompile Include="전신 Can Robot 모델링.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="전신 Can Robot 모델링.cpp">
+    <ClCompile Include="모델뷰 변환 종합.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="HW6_권성민.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소스1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="과제진행중.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

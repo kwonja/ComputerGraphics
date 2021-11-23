@@ -31,7 +31,7 @@ void MyCreateList() {
 	gluQuadricNormals(qobj, GLU_SMOOTH);           //객체의 모서리가 부드럽게 보이도록 법선벡터를 생성
 	gluQuadricOrientation(qobj, GLU_OUTSIDE);      //바깥 쪽을 가리키는 벡터를 가진 Quadric을 그린다
 	gluQuadricTexture(qobj, GL_FALSE);             //텍스트좌표를 사용하지 않는다.
-	gluSphere(qobj, 1.0, 50, 50);                  //원 모양의 객체
+	gluSphere(qobj, 1.0, 3, 3);                  //원 모양의 객체
 	glEndList();                                 //생성한 리스트의 끝을 표기
 }
 void MyInit(void) {
