@@ -16,10 +16,6 @@
 #include <GL/glut.h>
 GLUquadricObj *qobj = gluNewQuadric();        //실린더를 구현하기위해서 객체 생성
 
-
-
-
-
 int headcount = 0;
 int rightarmcount = 0;
 int leftarmcount = 0;
